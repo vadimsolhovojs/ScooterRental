@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScooterRental", "ScooterRental\ScooterRental.csproj", "{42F97F16-9325-48CA-9D0E-319C974ECF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScooterRental.Tests", "ScooterRental.Tests\ScooterRental.Tests.csproj", "{D5DE6584-0784-4000-8E58-2C847994F84F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F97F16-9325-48CA-9D0E-319C974ECF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F97F16-9325-48CA-9D0E-319C974ECF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F97F16-9325-48CA-9D0E-319C974ECF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F97F16-9325-48CA-9D0E-319C974ECF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DE6584-0784-4000-8E58-2C847994F84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DE6584-0784-4000-8E58-2C847994F84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DE6584-0784-4000-8E58-2C847994F84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DE6584-0784-4000-8E58-2C847994F84F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
